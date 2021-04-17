@@ -1,0 +1,17 @@
+body {
+     text-align:center; 
+    }
+    #album
+{
+border-style:solid;
+border-color:#689F38;
+border-radius:80px;
+border: 1px;
+border-radius: 80px;
+padding: 5px;
+width: 450px; 
+}
+#name
+{
+font-size:50px;
+}
